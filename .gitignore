@@ -1,0 +1,5 @@
+csv-to-parquet
+*.parquet
+*.csv
+!config.yaml
+.idea/

@@ -1,0 +1,8 @@
+# csv-to-parquet default configuration
+input: ""
+output: ""
+delete_original: true
+log_level: "info"
+batch_size: 10000
+delimiter: ","
+sample_rows: 100
