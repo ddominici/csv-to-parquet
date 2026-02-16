@@ -1,5 +1,9 @@
 # csv-to-parquet
 
+[![Go Version](https://img.shields.io/badge/Go-1.24-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![GitHub repo](https://img.shields.io/badge/GitHub-ddominici%2Fcsv--to--parquet-181717?logo=github)](https://github.com/ddominici/csv-to-parquet)
+
 A fast CLI tool written in Go that converts CSV files to Apache Parquet format with automatic schema detection and type inference.
 
 ## Features
